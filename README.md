@@ -1,5 +1,5 @@
-# Desafio 01 Rocketseat
-Primeiro desafio do bootcamp GoStack 12 da Rocketseat: Utilizar conceitos fundamentais do NodeJS na criação de uma API para cadastro de repositórios fake.
+# Desafio 02 Rocketseat
+Segundo desafio do bootcamp GoStack 12 da Rocketseat: Utilizar conceitos fundamentais do NodeJS na criação de uma API para cadastro de repositórios fake.
 
 ## Conceitos
 ### API REST
